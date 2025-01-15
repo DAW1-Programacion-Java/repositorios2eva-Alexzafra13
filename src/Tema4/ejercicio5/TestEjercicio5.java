@@ -12,6 +12,7 @@ public class TestEjercicio5 {
 
         System.out.println(alumno1.notaMedia(alumno1.getNota1(), alumno1.getNota2()));
 
+        System.out.println();
     }
 
 }
