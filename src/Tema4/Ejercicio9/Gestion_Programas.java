@@ -60,7 +60,10 @@ public class Gestion_Programas {
 
     }
 
-    public void filtrarLicencia(Programa programa){
+    public void filtrarLicencia(Programa programa, String filtro){
+
+
+
 
 
     }
